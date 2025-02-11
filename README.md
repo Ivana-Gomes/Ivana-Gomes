@@ -1,6 +1,6 @@
 #👩🏻‍💻 Ivana Dos Santos Gomes 
 
-**`Desenvolvedora web`**
+**` Web developer `**
 
 Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolvimento de sistemas pela faculdade Famatro - Manaus, estou especializando em Front-end e estou fazendo curso da Alura One, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
 
