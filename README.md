@@ -107,10 +107,7 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/Ivana-Gomes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes" />
-</a>
-<a href="https://github.com/Ivana-Gomes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivana-Gomes&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivana-Gomes&layout=compact&theme=dracula"/>
+</div>
