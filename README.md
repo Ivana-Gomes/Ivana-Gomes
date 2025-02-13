@@ -93,12 +93,12 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+</br>
+</br>
 
 <a 
     target="_blank" href="https://imgbb.io/nwEB2KHlCdMyEtz">
-<img ling-item ="center" width="200px" src="https://imgbb.io/ib/QUKiv5phdlxAHzE_1739459361.gif" 
+<img ling-item ="left" width="200px" src="https://imgbb.io/ib/QUKiv5phdlxAHzE_1739459361.gif" 
     alt="clideo_editor_9d2d872b017148208709bf4448dd89b1.gif"/>
 </a>
 
