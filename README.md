@@ -105,7 +105,7 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
 <br/>
 
 ### 📊 Estatísticas
-
+<div align= "center"> 
 <p>
   <img 
     align="left" 
@@ -123,5 +123,5 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
   />
 
 </p>
-
+</div>
 
