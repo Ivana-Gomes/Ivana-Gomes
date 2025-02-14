@@ -82,12 +82,11 @@ alt="clideo_editor_9d2d872b017148208709bf4448dd89b1.gif"/>
 <br/>
 ### 📊 Estatísticas
 
-<div align="left">
+<div style="display: flex; align-items: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=dracula"/>
-</br>
-</br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivana-Gomes&layout=compact&theme=dracula"/>
 </div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-Gomes/Ivana-Gomes/output/github-contribution-grid-snake-dark.svg">
