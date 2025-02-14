@@ -83,7 +83,7 @@ alt="clideo_editor_9d2d872b017148208709bf4448dd89b1.gif"/>
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=dracula"/>
 </br>
 </br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivana-Gomes&layout=compact&theme=dracula"/>
