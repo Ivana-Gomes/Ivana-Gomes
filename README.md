@@ -10,6 +10,8 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-santos-gomes/)
 
+
+
 ## 🤖 Linguagens e Tecnologias
 
 <img 
