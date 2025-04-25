@@ -13,7 +13,7 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
 
 ## Visitas 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes&"/>
 </div>
 
 
