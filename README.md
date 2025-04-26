@@ -11,22 +11,12 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-santos-gomes/)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-<iframe src="https://giphy.com/embed/sz8v0XrcexKw34PQbz" 
-width="100%" 
-height="100%"
-style="right" 
-frameBorder="0" 
-class="giphy-embed" 
-allowFullScreen>
-</iframe>
-</div>
-<p><a href="https://giphy.com/gifs/sz8v0XrcexKw34PQbz">via GIPHY</a></p>
+![GIF](https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif)
+
+[via GIPHY](https://giphy.com/gifs/sz8v0XrcexKw34PQbz)
 
 ## Visitas 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes&"/>
-</div>
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
 
 
