@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ivana Braga Dos Santos Gomes 
+# 👩🏻‍💻 Ivana Braga  
 
 **` developer `**
 
