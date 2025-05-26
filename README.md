@@ -24,9 +24,6 @@ Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolv
     src="https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif" 
 />
 
-
----
-
 ## 🤖 Linguagens e Tecnologias
 
 <img 
