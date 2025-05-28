@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Ivana Braga  
 
-**` developer `**
+**` Web developer `**
 
-Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
+Me chamo Ivana Dos Santos Gomes, tenho 27 anos sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando front-end e java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
 
 
 ---
