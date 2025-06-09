@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ivana Braga  
+# 👩🏻‍💻 Ivana B Gomes  
 
 **` Web developer `**
 
