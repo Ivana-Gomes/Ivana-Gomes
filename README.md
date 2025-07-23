@@ -15,7 +15,8 @@ Oiii, Eu sou formada em análise desenvolvimento de sistemas, pela faculdade Fam
 />
 </div> 
 
-
+---
+## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
 ---
