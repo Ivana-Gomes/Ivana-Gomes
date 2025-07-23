@@ -2,7 +2,8 @@
 
 **` Web developer `**
 
-Oiii, Eu sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando front-end e java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora web jr, sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando front-end e java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
 
 <div aling="right">
 <img 
