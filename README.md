@@ -4,6 +4,16 @@
 
 Oiii, sou Ivy tenho 27 anos, sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando front-end e java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
 
+<div aling="center">
+<img 
+    align="center" 
+    alt="GIF"
+    title="GIF" 
+    width="100px" 
+    style="padding-right: 100px;" 
+    src="https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif" 
+/>
+</div> 
 
 ---
 
@@ -11,18 +21,6 @@ Oiii, sou Ivy tenho 27 anos, sou formada em análise desenvolvimento de sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-santos-gomes/)
 
-## Visitas 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
-
-### Gif 
-<img 
-    align="rigth" 
-    alt="GIF"
-    title="GIF" 
-    width="100px" 
-    style="padding-right: 100px;" 
-    src="https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif" 
-/>
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -103,3 +101,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ivana-Gomes/Ivana-Gomes/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+## Visitas 
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
