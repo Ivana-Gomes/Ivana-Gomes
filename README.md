@@ -16,11 +16,11 @@ Oiii, sou Ivy tenho 27 anos, sou formada em análise desenvolvimento de sistemas
 
 ### Gif 
 <img 
-    align="center" 
+    align="rigth" 
     alt="GIF"
     title="GIF" 
     width="100px" 
-    style="padding-right: 90px;" 
+    style="padding-right: 100px;" 
     src="https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif" 
 />
 
