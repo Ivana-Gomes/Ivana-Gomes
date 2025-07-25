@@ -1,22 +1,18 @@
-# 👩🏻‍💻 Ivana Gomes  
-
-**` Web developer `**
+# Olá eu sou Ivana Gomes👩🏻‍💻👋
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora web jr, sou formada em análise desenvolvimento de sistemas, pela faculdade Fametro - Manaus, estou estudando front-end e java pela DIO, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
+Eu sou uma Estudante de web focado em front-end, sou formada em análise desenvolvimento de sistemas faculdade Fametro - Manaus, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
 
-<div aling="right">
-<img 
-    align="center" 
-    alt="GIF"
-    title="GIF" 
-    width="100px" 
-    style="padding-right: 100px;" 
-    src="https://media.giphy.com/media/sz8v0XrcexKw34PQbz/giphy.gif" 
-/>
-</div> 
+🧠 Estou aprendendo... 
+<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+</p>
 
----
+<br>        
+
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
