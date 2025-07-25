@@ -102,7 +102,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ivana-Gomes/Ivana-Gomes/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
-## Visitas 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
