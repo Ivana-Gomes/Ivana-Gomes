@@ -1,17 +1,7 @@
 # Olá eu sou Ivana Gomes👩🏻‍💻👋
 
 ## 🚀 Sobre mim
-Eu sou uma Estudante de web focado em front-end, sou formada em análise desenvolvimento de sistemas faculdade Fametro - Manaus, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.
-
-## 🧠 Estou aprendendo... 
-<br>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-</p>
-
-<br>        
+Eu sou uma Estudante de web focado em front-end, sou formada em análise desenvolvimento de sistemas faculdade Fametro - Manaus, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.       
 
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
