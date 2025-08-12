@@ -2,8 +2,6 @@
 
 💻 Desenvolvedora Web | Apaixonada por Tecnologia
 
-Desenvolvedora Web | HTML, CSS e JavaScript | Voluntária na comunidade PHP Manaus, evoluindo com novos frameworks para criar projetos cada vez melhores.
-
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
