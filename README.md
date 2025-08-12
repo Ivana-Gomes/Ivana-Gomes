@@ -5,13 +5,6 @@
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
----
-
-## 🌎Conecte-se Comigo 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-santos-gomes/)
-
-
 ## 🤖 Linguagens e Tecnologias
 
 <img 
