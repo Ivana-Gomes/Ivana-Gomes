@@ -1,6 +1,5 @@
 # Olá eu sou Ivana Gomes👩🏻‍💻👋
 
-## 🚀 Sobre mim
 💻 Desenvolvedora Web | Apaixonada por Tecnologia
 
 Desenvolvedora Web | HTML, CSS e JavaScript | Voluntária na comunidade PHP Manaus, evoluindo com novos frameworks para criar projetos cada vez melhores.
