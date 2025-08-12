@@ -1,7 +1,13 @@
 # Olá eu sou Ivana Gomes👩🏻‍💻👋
 
 ## 🚀 Sobre mim
-Eu sou uma Estudante de web focado em front-end, sou formada em análise desenvolvimento de sistemas faculdade Fametro - Manaus, No momento estou a procura do meu primeiro emprego na área de desenvolvimento e estou desenvolvendo alguns mini projetos para enriquecer o meu Github.       
+💻 Desenvolvedora Web | Apaixonada por Tecnologia
+
+Sou graduada em Análise e Desenvolvimento de Sistemas e tenho experiência no desenvolvimento de sites modernos e responsivos, utilizando HTML, CSS e JavaScript.
+
+Participo ativamente da comunidade PHP Manaus, onde contribuo com a manutenção do site e pequenas melhorias no Front-End. Sempre em busca de evolução, realizo cursos e bootcamps para aprimorar minhas habilidades, com foco em desenvolvimento web.
+
+ Gosto de transformar ideias em soluções e acredito no poder da tecnologia para conectar pessoas e criar oportunidades.       
 
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
