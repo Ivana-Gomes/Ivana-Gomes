@@ -3,11 +3,7 @@
 ## 🚀 Sobre mim
 💻 Desenvolvedora Web | Apaixonada por Tecnologia
 
-Sou graduada em Análise e Desenvolvimento de Sistemas e tenho experiência no desenvolvimento de sites modernos e responsivos, utilizando HTML, CSS e JavaScript.
-
-Participo ativamente da comunidade PHP Manaus, onde contribuo com a manutenção do site e pequenas melhorias no Front-End. Sempre em busca de evolução, realizo cursos e bootcamps para aprimorar minhas habilidades, com foco em desenvolvimento web.
-
- Gosto de transformar ideias em soluções e acredito no poder da tecnologia para conectar pessoas e criar oportunidades.       
+Desenvolvedora Web | HTML, CSS e JavaScript | Voluntária na comunidade PHP Manaus, evoluindo com novos frameworks para criar projetos cada vez melhores.
 
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
