@@ -1,6 +1,6 @@
 # Olá eu sou Ivana Gomes👩🏻‍💻👋
 
-💻 Desenvolvedora Web | Apaixonada por Tecnologia
+💻 Desenvolvedora Web 
 
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
