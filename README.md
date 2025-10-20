@@ -86,9 +86,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
 </picture>
 
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/Ivana-Gomes"> 🔗
-  https://gitfollio.vercel.app/Ivana-Gomes
-</a>
+
 
 
