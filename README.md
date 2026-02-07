@@ -5,6 +5,8 @@
 Oi! Eu sou a Ivie
 Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvedora com foco em aprender rápido, executar bem e evoluir constantemente. Tenho facilidade em transformar teoria em prática e em construir soluções funcionais e organizadas.
 
+Sou reponsavel por ajudar nas comunidades de php e administradora da comunidade Nortejs_
+
 No meu GitHub você vai encontrar projetos que mostram meu comprometimento, minha capacidade de aprendizado e minha evolução técnica como desenvolvedora. Estou aberta a oportunidades e desafios que me permitam crescer e gerar impacto real 🚀
 
 ## Visitas 
