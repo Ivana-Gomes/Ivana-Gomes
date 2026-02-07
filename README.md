@@ -2,6 +2,11 @@
 
 💻 Estudante de desenvolvimento Web 
 
+Oi! Eu sou a Ivie
+Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvedora com foco em aprender rápido, executar bem e evoluir constantemente. Tenho facilidade em transformar teoria em prática e em construir soluções funcionais e organizadas.
+
+No meu GitHub você vai encontrar projetos que mostram meu comprometimento, minha capacidade de aprendizado e minha evolução técnica como desenvolvedora. Estou aberta a oportunidades e desafios que me permitam crescer e gerar impacto real 🚀
+
 ## Visitas 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
@@ -62,14 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 </br>
 </br>
 
-## 📊 Estatísticas
-
-<div style="display: flex; align-items: center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivana-Gomes&layout=compact&theme=dracula"/>
-</div>
-
-
+## Projetos 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-Gomes/Ivana-Gomes/output/github-contribution-grid-snake-dark.svg">
