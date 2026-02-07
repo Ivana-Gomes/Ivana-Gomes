@@ -48,14 +48,6 @@ No meu GitHub você vai encontrar projetos que mostram meu comprometimento, minh
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img
-align = "left"
-alt = "PHP"
-title = "PHP"
-width = "30px"
-style =" pedding-right: 10px"   
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
 <img
 align = "left"
