@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFB6C1&textBg=false&fontColor=ffff&section=header&descAlign=50&descAlignY=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF7FC0&center=true&vCenter=true&width=1200&height=100&lines=Hello!++%F0%9F%91%8B%F0%9F%8F%BB;I'm++Ivana+Gomes;Junior+Front-end+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+To+My+Profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=FF7FC0&center=true&vCenter=true&width=1200&height=100&lines=Hello!++%F0%9F%91%8B%F0%9F%8F%BB;I'm++Ivana+Gomes;Junior+Front-end+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+To+My+Profile+)](https://git.io/typing-svg)
+
+</br> 
 
 💻 Estudante de desenvolvimento Web 
 
@@ -10,9 +12,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvedora com foco 
 Sou reponsavel por ajudar nas comunidades de php e administradora da comunidade Nortejs_
 
 No meu GitHub você vai encontrar projetos que mostram meu comprometimento, minha capacidade de aprendizado e minha evolução técnica como desenvolvedora. Estou aberta a oportunidades e desafios que me permitam crescer e gerar impacto real 🚀
-
-## Visitas 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
+</br>
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -63,9 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 </br>
 </br>
 
-## Grafico
-
-
+## Visitas 
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Ivana-Gomes.Ivana-Gomes)
 
 ## Projetos 
 
