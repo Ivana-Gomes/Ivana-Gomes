@@ -68,9 +68,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 ## Projetos 
     
-  ![Ivie GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivana-Gomes&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivana-Gomes&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-Gomes/Ivana-Gomes/output/github-contribution-grid-snake-dark.svg">
